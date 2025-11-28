@@ -1,6 +1,8 @@
 # Kindle-Highlights-Cleanup
 Cleanup your Kindle Highlights to be able to export them and summarize them without the limits of the export option.
-It removes the "Yellow highlight | Location: X Options" lines from the file, that are added when you manually copy-paste.
+This script removes highlight metadata lines from a Kindle export based on a specified pattern.
+
+By default it removes the: "Yellow highlight | Location: X Options" metadata lines from the file, that are added when you manually copy-paste.
 
 **Steps**
 1. Find the highlights you want here: https://read.amazon.com/notebook
